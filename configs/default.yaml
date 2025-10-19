@@ -1,0 +1,5 @@
+﻿apps:
+  github:
+    api: https://api.github.com
+  calendar:
+    provider: ics

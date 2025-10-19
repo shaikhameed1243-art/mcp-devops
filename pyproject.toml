@@ -1,0 +1,17 @@
+﻿[project]
+name = "devops-mcp"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+  "mcp",
+  "python-dotenv",
+  "pydantic>=2",
+  "httpx",
+  "pyyaml",
+  "rich",
+  "icalendar",
+  "python-dateutil"
+]
+
+[project.scripts]
+devops-mcp = "devops_mcp.server:main"
