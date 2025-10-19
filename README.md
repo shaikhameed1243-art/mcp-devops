@@ -168,8 +168,8 @@ Tag it with `#DevOpsMCP` if you post your build logs or screenshots.
 ## 📬 Author
 
 **Hameed** — DevOps Engineer · GenAI Python Developer · Writer  
-💻 GitHub: [@<your-handle>](https://github.com/<your-handle>)  
-💬 LinkedIn: [linkedin.com/in/<your-handle>](https://linkedin.com/in/<your-handle>)
+💻 GitHub: [@shaikhameed](https://github.com/shaikhameed1243-art/)  
+💬 LinkedIn: [linkedin.com](www.linkedin.com/in/hameedbasha)
 
 ---
 
