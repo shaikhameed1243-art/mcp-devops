@@ -5,6 +5,12 @@ from daily standups to Kubernetes health checks, from unread GitHub PRs to Gmail
 
 ---
 
+## 🎥 Demo
+
+Watch the full screen-recorded demo below:
+
+https://github.com/shaikhameed1243-art/mcp-devops/blob/main/MCP%20-%20Demo.mp4
+
 ## ✨ What It Does
 
 This MCP server connects your LLM (Claude, OpenAI MCP client, etc.) to your **DevOps ecosystem** — securely and modularly.
