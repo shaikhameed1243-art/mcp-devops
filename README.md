@@ -1,4 +1,4 @@
-# 🚀 DevOps-MCP — The Multi-Context Protocol Server for DevOps Automation
+# 🚀 DevOps-MCP — The Multi-Context Protocol Server for DevOps
 
 **DevOps-MCP** is an intelligent **Model Context Protocol (MCP)** server built to make a DevOps engineer’s day frictionless —  
 from daily standups to Kubernetes health checks, from unread GitHub PRs to Gmail summaries — all wired through a single interface.
