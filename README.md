@@ -163,14 +163,6 @@ a shell that speaks in **natural language and context**.
 > and let automation whisper the signal."
 
 ---
-
-## 🤝 Contribute
-
-PRs welcome — new integrations (PagerDuty, Grafana, AWS, Azure, etc.) are on the roadmap.  
-Tag it with `#DevOpsMCP` if you post your build logs or screenshots.
-
----
-
 ## 📬 Author
 
 **Hameed** — DevOps Engineer · GenAI Python Developer · Writer  
